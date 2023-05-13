@@ -9,10 +9,13 @@ SCANNY - A MULTI- PURPOSE Optical Character Recognition (OCR) APP
 
 
 
-https://github.com/TheQuestHS/SCANNY-Multi-Purpose-OCR-APP/assets/67106441/22c51659-903f-400a-b6cf-5e2b33cf91e7
 
 
 
 
 
+
+
+
+https://github.com/TheQuestHS/SCANNY-Multi-Purpose-OCR-APP/assets/67106441/5861c46d-4f6c-4556-b045-56278ce47bdd
 
