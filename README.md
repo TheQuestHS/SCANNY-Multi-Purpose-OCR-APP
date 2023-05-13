@@ -5,6 +5,10 @@ SCANNY - A MULTI- PURPOSE Optical Character Recognition (OCR) APP
 -	Technologies: Java, Flutter, ML, Firebase.
 
 
-https://github.com/TheQuestHS/SCANNY-Multi-Purpose-OCR-APP/assets/67106441/a4dbf7d4-d43f-4d51-82e7-f00fb43bcd5f
+
+
+https://github.com/TheQuestHS/SCANNY-Multi-Purpose-OCR-APP/assets/67106441/77d87821-f2ac-4051-a45f-3cf02d25bb11
+
+
 
 
